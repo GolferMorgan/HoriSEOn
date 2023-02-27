@@ -19,3 +19,5 @@ In this challenge there were several things that needed to be corrected. To star
 ##### Deployment
 
 This is where the code was uploaded to GitHub and a page was generated.
+
+https://golfermorgan.github.io/HoriSEOn/
